@@ -1,0 +1,15 @@
+{
+  "name": "api_recette",
+  "version": "1.0.0",
+  "description": "création d'api de recette de cuisine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sebastien bourr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.2"
+  }
+}
